@@ -464,7 +464,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "bread": "2026-02-21 17:35:31 +0000",
-      "golden_apple": "2026-03-02 02:58:24 +0000"
+      "golden_apple": "2026-03-02 02:58:24 +0000",
+      "carrot": "2026-03-03 14:03:20 +0000"
     },
     "done": false
   },
