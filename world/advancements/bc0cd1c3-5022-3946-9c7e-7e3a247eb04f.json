@@ -5729,15 +5729,15 @@
     },
     "done": true
   },
-  "irons_spellbooks:irons_spellbooks/staff_root": {
-    "criteria": {
-      "requirement": "2026-03-03 01:29:28 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
     "criteria": {
       "has_salmon": "2026-03-03 01:22:10 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/staff_root": {
+    "criteria": {
+      "requirement": "2026-03-03 01:29:28 +0000"
     },
     "done": true
   },
