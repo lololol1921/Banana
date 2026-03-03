@@ -1,11 +1,11 @@
 #Minimum lapis cost when using enchantment conversion table, when set to 0, emerald will be banned on the table
 # Default: 36
 # Range: 0 ~ 64
-minimumEmeraldCost = 36
+minimumEmeraldCost = 1
 #Minimum lapis block cost when using enchantment conversion table, when set to 0, emerald block will be banned on the table
 # Default: 4
 # Range: 0 ~ 64
-minimumEmeraldBlockCost = 4
+minimumEmeraldBlockCost = 1
 #Ignore enchantment level limit when using enchantment conversion table
 ignoreEnchantmentLevelLimit = true
 #if set to true, enchantment conversion table will use emerald to exchange max level book
