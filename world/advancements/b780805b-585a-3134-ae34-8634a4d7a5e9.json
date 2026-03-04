@@ -4710,5 +4710,23 @@
     },
     "done": true
   },
+  "mca:best_friend": {
+    "criteria": {
+      "baby": "2026-03-04 02:09:38 +0000"
+    },
+    "done": true
+  },
+  "mca:merchant": {
+    "criteria": {
+      "baby": "2026-03-04 02:07:01 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/oak_chest_from_vanilla_chest": {
+    "criteria": {
+      "has_vanilla_chest": "2026-03-04 02:06:30 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
