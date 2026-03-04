@@ -4680,15 +4680,15 @@
     },
     "done": true
   },
-  "irons_spellbooks:irons_spellbooks/ink_legendary": {
+  "waystones:recipes/decorations/blank_scroll": {
     "criteria": {
-      "requirement": "2026-03-03 01:50:05 +0000"
+      "has_paper": "2026-03-03 01:48:59 +0000"
     },
     "done": true
   },
-  "irons_spellbooks:irons_spellbooks/make_arcane_anvil": {
+  "irons_spellbooks:irons_spellbooks/ink_legendary": {
     "criteria": {
-      "arcane_anvil": "2026-03-03 01:54:01 +0000"
+      "requirement": "2026-03-03 01:50:05 +0000"
     },
     "done": true
   },
@@ -4698,15 +4698,15 @@
     },
     "done": true
   },
-  "waystones:recipes/decorations/blank_scroll": {
-    "criteria": {
-      "has_paper": "2026-03-03 01:48:59 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2026-03-03 01:53:18 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/make_arcane_anvil": {
+    "criteria": {
+      "arcane_anvil": "2026-03-03 01:54:01 +0000"
     },
     "done": true
   },
