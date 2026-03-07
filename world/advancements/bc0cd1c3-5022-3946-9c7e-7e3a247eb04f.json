@@ -6153,15 +6153,63 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/evoker_boots_smithing": {
+    "criteria": {
+      "has_evocation_rune": "2026-03-07 22:50:02 +0000"
+    },
+    "done": true
+  },
+  "crystal_chronicles:recipes/combat/evocation_twinblade": {
+    "criteria": {
+      "has_evocation_rune": "2026-03-07 22:50:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/evoker_helmet_smithing": {
+    "criteria": {
+      "has_evocation_rune": "2026-03-07 22:50:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/soul_torch": {
     "criteria": {
       "has_soul_sand": "2026-03-07 22:24:45 +0000"
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/spell_book_evoker": {
+    "criteria": {
+      "requirement": "2026-03-07 22:50:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_polished_granite": "2026-03-07 22:54:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab": {
+    "criteria": {
+      "has_polished_granite": "2026-03-07 22:54:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs": {
+    "criteria": {
+      "has_polished_granite": "2026-03-07 22:54:32 +0000"
+    },
+    "done": true
+  },
   "apothic_spawners:mindelay": {
     "criteria": {
       "modifier": "2026-03-07 22:26:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_polished_granite": "2026-03-07 22:54:32 +0000"
     },
     "done": true
   },
@@ -6183,9 +6231,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/evoker_chestplate_smithing": {
+    "criteria": {
+      "has_evocation_rune": "2026-03-07 22:50:02 +0000"
+    },
+    "done": true
+  },
   "apothic_spawners:spawnrange": {
     "criteria": {
       "modifier": "2026-03-07 22:26:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/evoker_leggings_smithing": {
+    "criteria": {
+      "has_evocation_rune": "2026-03-07 22:50:02 +0000"
     },
     "done": true
   },
