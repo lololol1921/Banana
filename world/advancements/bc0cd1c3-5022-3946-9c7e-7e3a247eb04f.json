@@ -6153,9 +6153,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2026-03-07 22:24:45 +0000"
+    },
+    "done": true
+  },
+  "apothic_spawners:mindelay": {
+    "criteria": {
+      "modifier": "2026-03-07 22:26:38 +0000"
+    },
+    "done": true
+  },
+  "apothic_spawners:nearbyents": {
+    "criteria": {
+      "modifier": "2026-03-07 22:26:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/soul_fire_charge": {
     "criteria": {
       "has_ghast_tear": "2026-03-07 22:19:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2026-03-07 22:24:45 +0000"
+    },
+    "done": true
+  },
+  "apothic_spawners:spawnrange": {
+    "criteria": {
+      "modifier": "2026-03-07 22:26:25 +0000"
     },
     "done": true
   },
