@@ -1049,6 +1049,7 @@
       "minecraft:blaze": "2026-03-02 01:26:16 +0000",
       "minecraft:skeleton": "2026-02-21 19:07:38 +0000",
       "minecraft:bogged": "2026-02-22 04:56:42 +0000",
+      "minecraft:ghast": "2026-03-07 22:19:53 +0000",
       "minecraft:hoglin": "2026-02-22 21:17:33 +0000",
       "minecraft:vindicator": "2026-02-21 21:34:24 +0000",
       "minecraft:breeze": "2026-03-02 20:57:39 +0000",
@@ -6149,6 +6150,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
     "criteria": {
       "has_white_dye": "2026-03-04 02:10:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/soul_fire_charge": {
+    "criteria": {
+      "has_ghast_tear": "2026-03-07 22:19:54 +0000"
     },
     "done": true
   },
