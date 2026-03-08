@@ -4159,10 +4159,11 @@
     "criteria": {
       "minecraft:crimson_forest": "2026-02-22 21:17:07 +0000",
       "minecraft:nether_wastes": "2026-02-22 21:17:21 +0000",
+      "minecraft:soul_sand_valley": "2026-03-08 14:35:50 +0000",
       "minecraft:warped_forest": "2026-02-22 21:16:27 +0000",
       "minecraft:basalt_deltas": "2026-03-01 17:02:46 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
     "criteria": {
@@ -6252,63 +6253,9 @@
     },
     "done": true
   },
-  "waystones:recipes/decorations/black_sharestone": {
-    "criteria": {
-      "has_warp_stone": "2026-03-08 00:41:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/deepslate_brick_wall_from_deepslate_bricks_stonecutting": {
-    "criteria": {
-      "has_deepslate_bricks": "2026-03-08 00:57:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_tiles_stonecutting": {
-    "criteria": {
-      "has_deepslate_tiles": "2026-03-08 00:48:52 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/dried_kelp_from_smelting": {
     "criteria": {
       "has_kelp": "2026-03-07 23:43:11 +0000"
-    },
-    "done": true
-  },
-  "deeperdarker:recipes/misc/warden_upgrade_smithing_template": {
-    "criteria": {
-      "has_warden_upgrade_smithing_template": "2026-03-08 00:40:31 +0000"
-    },
-    "done": true
-  },
-  "waystones:recipes/decorations/magenta_sharestone": {
-    "criteria": {
-      "has_warp_stone": "2026-03-08 00:41:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_bricks_stonecutting": {
-    "criteria": {
-      "has_deepslate_bricks": "2026-03-08 00:57:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2026-03-08 02:06:24 +0000"
-    },
-    "done": true
-  },
-  "waystones:recipes/decorations/purple_portstone": {
-    "criteria": {
-      "has_warp_stone": "2026-03-08 00:41:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_tiles_stonecutting": {
-    "criteria": {
-      "has_deepslate_tiles": "2026-03-08 00:48:52 +0000"
     },
     "done": true
   },
@@ -6318,15 +6265,105 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2026-03-07 23:43:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2026-03-07 23:54:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2026-03-07 23:54:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod_from_smoking": {
     "criteria": {
       "has_cod": "2026-03-08 00:04:30 +0000"
     },
     "done": true
   },
-  "discerning_the_eldritch:discerning_the_eldritch/main/root": {
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
     "criteria": {
-      "echo_shard": "2026-03-08 01:11:29 +0000"
+      "has_cod": "2026-03-08 00:04:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2026-03-08 00:04:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2026-03-08 00:13:50 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/kill_warden": {
+    "criteria": {
+      "warden": "2026-03-08 00:13:50 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/kill_all_sculk_mobs": {
+    "criteria": {
+      "warden": "2026-03-08 00:13:50 +0000"
+    },
+    "done": false
+  },
+  "deeperdarker:recipes/misc/reinforced_echo_shard": {
+    "criteria": {
+      "has_warden_carapace": "2026-03-08 00:13:51 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/combat/sonorous_staff": {
+    "criteria": {
+      "has_heart_of_the_deep": "2026-03-08 00:13:51 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/find_ancient_city": {
+    "criteria": {
+      "ancient_city": "2026-03-08 00:39:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2026-03-08 00:39:23 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/misc/warden_upgrade_smithing_template": {
+    "criteria": {
+      "has_warden_upgrade_smithing_template": "2026-03-08 00:40:31 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/black_sharestone": {
+    "criteria": {
+      "has_warp_stone": "2026-03-08 00:41:37 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/magenta_sharestone": {
+    "criteria": {
+      "has_warp_stone": "2026-03-08 00:41:37 +0000"
+    },
+    "done": true
+  },
+  "waystones:recipes/decorations/purple_portstone": {
+    "criteria": {
+      "has_warp_stone": "2026-03-08 00:41:37 +0000"
     },
     "done": true
   },
@@ -6354,30 +6391,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/blackstone_wall": {
-    "criteria": {
-      "has_blackstone": "2026-03-08 02:06:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_stairs": {
-    "criteria": {
-      "has_polished_blackstone": "2026-03-08 02:08:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_brick_stairs": {
-    "criteria": {
-      "has_deepslate_bricks": "2026-03-08 00:57:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone": "2026-03-08 02:08:27 +0000"
-    },
-    "done": true
-  },
   "waystones:recipes/decorations/orange_sharestone": {
     "criteria": {
       "has_warp_stone": "2026-03-08 00:41:37 +0000"
@@ -6390,21 +6403,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/polished_blackstone_button": {
-    "criteria": {
-      "has_polished_blackstone": "2026-03-08 02:08:27 +0000"
-    },
-    "done": true
-  },
   "waystones:recipes/decorations/yellow_portstone": {
     "criteria": {
       "has_warp_stone": "2026-03-08 00:41:37 +0000"
-    },
-    "done": true
-  },
-  "deeperdarker:recipes/misc/reinforced_echo_shard": {
-    "criteria": {
-      "has_warden_carapace": "2026-03-08 00:13:51 +0000"
     },
     "done": true
   },
@@ -6414,33 +6415,9 @@
     },
     "done": true
   },
-  "sophisticatedstorage:recipes/misc/storage_pickup_upgrade_from_backpack_pickup_upgrade": {
-    "criteria": {
-      "has_backpack_upgrade": "2026-03-08 02:31:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2026-03-08 02:06:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2026-03-08 02:06:24 +0000"
-    },
-    "done": true
-  },
   "waystones:recipes/decorations/lime_portstone": {
     "criteria": {
       "has_warp_stone": "2026-03-08 00:41:37 +0000"
-    },
-    "done": true
-  },
-  "discerning_the_eldritch:discerning_the_eldritch/main/find_demonic_weapon": {
-    "criteria": {
-      "flail": "2026-03-08 01:08:33 +0000"
     },
     "done": true
   },
@@ -6450,81 +6427,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/spruce_wood": {
-    "criteria": {
-      "has_log": "2026-03-07 23:54:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_bricks_stonecutting": {
-    "criteria": {
-      "has_deepslate_bricks": "2026-03-08 00:57:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/deepslate_tile_wall": {
-    "criteria": {
-      "has_deepslate_tiles": "2026-03-08 00:48:52 +0000"
-    },
-    "done": true
-  },
   "waystones:recipes/decorations/white_portstone": {
     "criteria": {
       "has_warp_stone": "2026-03-08 00:41:37 +0000"
     },
     "done": true
   },
-  "sophisticatedstorage:recipes/misc/storage_advanced_jukebox_upgrade_from_backpack_advanced_jukebox_upgrade": {
-    "criteria": {
-      "has_backpack_upgrade": "2026-03-08 02:30:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_slab": {
-    "criteria": {
-      "has_polished_blackstone": "2026-03-08 02:08:27 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/advanced_jukebox_upgrade": {
-    "criteria": {
-      "has_jukebox_upgrade": "2026-03-08 02:31:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_tiles": {
-    "criteria": {
-      "has_deepslate_bricks": "2026-03-08 00:57:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2026-03-08 02:06:24 +0000"
-    },
-    "done": true
-  },
-  "deeperdarker:main/find_ancient_city": {
-    "criteria": {
-      "ancient_city": "2026-03-08 00:39:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_deepslate_bricks_stonecutting": {
-    "criteria": {
-      "has_deepslate_bricks": "2026-03-08 00:57:40 +0000"
-    },
-    "done": true
-  },
   "waystones:recipes/decorations/end_stone_waystone": {
     "criteria": {
       "has_warp_stone": "2026-03-08 00:41:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2026-03-08 02:06:24 +0000"
     },
     "done": true
   },
@@ -6537,18 +6448,6 @@
   "waystones:recipes/decorations/cyan_sharestone": {
     "criteria": {
       "has_warp_stone": "2026-03-08 00:41:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2026-03-08 02:06:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cracked_deepslate_tiles": {
-    "criteria": {
-      "has_deepslate_tiles": "2026-03-08 00:48:52 +0000"
     },
     "done": true
   },
@@ -6576,12 +6475,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/dried_kelp_from_smoking": {
-    "criteria": {
-      "has_kelp": "2026-03-07 23:43:11 +0000"
-    },
-    "done": true
-  },
   "waystones:recipes/decorations/green_sharestone": {
     "criteria": {
       "has_warp_stone": "2026-03-08 00:41:37 +0000"
@@ -6594,69 +6487,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/spruce_planks": {
-    "criteria": {
-      "has_logs": "2026-03-07 23:54:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_tiles_stonecutting": {
-    "criteria": {
-      "has_deepslate_tiles": "2026-03-08 00:48:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/blackstone_stairs": {
-    "criteria": {
-      "has_blackstone": "2026-03-08 02:06:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2026-03-08 02:06:24 +0000"
-    },
-    "done": true
-  },
   "waystones:recipes/decorations/red_portstone": {
     "criteria": {
       "has_warp_stone": "2026-03-08 00:41:37 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2026-03-08 02:06:24 +0000"
-    },
-    "done": true
-  },
   "waystones:recipes/decorations/gray_portstone": {
     "criteria": {
       "has_warp_stone": "2026-03-08 00:41:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/deepslate_brick_wall": {
-    "criteria": {
-      "has_deepslate_bricks": "2026-03-08 00:57:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
-    "criteria": {
-      "kill_mob_near_sculk_catalyst": "2026-03-08 00:13:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_tile_stairs": {
-    "criteria": {
-      "has_deepslate_tiles": "2026-03-08 00:48:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_polished_blackstone_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone": "2026-03-08 02:08:27 +0000"
     },
     "done": true
   },
@@ -6672,48 +6511,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_polished_blackstone_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone": "2026-03-08 02:08:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone": {
-    "criteria": {
-      "has_blackstone": "2026-03-08 02:06:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/ward_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2026-03-08 01:21:44 +0000"
-    },
-    "done": true
-  },
-  "deeperdarker:main/kill_warden": {
-    "criteria": {
-      "warden": "2026-03-08 00:13:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/recovery_compass": {
-    "criteria": {
-      "has_echo_shard": "2026-03-08 01:11:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_polished_blackstone_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone": "2026-03-08 02:08:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/blackstone_slab": {
-    "criteria": {
-      "has_blackstone": "2026-03-08 02:06:24 +0000"
-    },
-    "done": true
-  },
   "waystones:recipes/decorations/light_blue_portstone": {
     "criteria": {
       "has_warp_stone": "2026-03-08 00:41:37 +0000"
@@ -6723,12 +6520,6 @@
   "waystones:recipes/decorations/magenta_portstone": {
     "criteria": {
       "has_warp_stone": "2026-03-08 00:41:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_polished_blackstone_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone": "2026-03-08 02:08:27 +0000"
     },
     "done": true
   },
@@ -6744,93 +6535,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2026-03-08 02:06:24 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/storage_jukebox_upgrade_from_backpack_jukebox_upgrade": {
-    "criteria": {
-      "has_backpack_upgrade": "2026-03-08 02:31:36 +0000"
-    },
-    "done": true
-  },
-  "deeperdarker:recipes/combat/sonorous_staff": {
-    "criteria": {
-      "has_heart_of_the_deep": "2026-03-08 00:13:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2026-03-08 02:06:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/polished_blackstone_wall_from_polished_blackstone_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone": "2026-03-08 02:08:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_tiles_from_deepslate_bricks_stonecutting": {
-    "criteria": {
-      "has_deepslate_bricks": "2026-03-08 00:57:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/avoid_vibration": {
-    "criteria": {
-      "avoid_vibration": "2026-03-08 00:39:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_brick_slab": {
-    "criteria": {
-      "has_deepslate_bricks": "2026-03-08 00:57:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/polished_blackstone_pressure_plate": {
-    "criteria": {
-      "has_polished_blackstone": "2026-03-08 02:08:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
-    "criteria": {
-      "has_cod": "2026-03-08 00:04:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone": "2026-03-08 02:08:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2026-03-08 02:06:24 +0000"
-    },
-    "done": true
-  },
   "waystones:recipes/decorations/blackstone_waystone": {
     "criteria": {
       "has_warp_stone": "2026-03-08 00:41:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_tile_slab": {
-    "criteria": {
-      "has_deepslate_tiles": "2026-03-08 00:48:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cracked_deepslate_bricks": {
-    "criteria": {
-      "has_deepslate_bricks": "2026-03-08 00:57:40 +0000"
     },
     "done": true
   },
@@ -6839,30 +6546,6 @@
       "has_warp_stone": "2026-03-08 00:41:37 +0000"
     },
     "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_bricks_stonecutting": {
-    "criteria": {
-      "has_deepslate_bricks": "2026-03-08 00:57:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/ward_armor_trim_smithing_template": {
-    "criteria": {
-      "has_ward_armor_trim_smithing_template": "2026-03-08 01:21:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_cod": {
-    "criteria": {
-      "has_cod": "2026-03-08 00:04:30 +0000"
-    },
-    "done": true
-  },
-  "deeperdarker:main/kill_all_sculk_mobs": {
-    "criteria": {
-      "warden": "2026-03-08 00:13:50 +0000"
-    },
-    "done": false
   },
   "waystones:recipes/decorations/pink_sharestone": {
     "criteria": {
@@ -6873,12 +6556,6 @@
   "waystones:recipes/decorations/sandy_waystone": {
     "criteria": {
       "has_warp_stone": "2026-03-08 00:41:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_bricks": {
-    "criteria": {
-      "has_polished_blackstone": "2026-03-08 02:08:27 +0000"
     },
     "done": true
   },
@@ -6894,15 +6571,111 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_tiles_stonecutting": {
     "criteria": {
-      "has_blackstone": "2026-03-08 02:06:24 +0000"
+      "has_deepslate_tiles": "2026-03-08 00:48:52 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/polished_blackstone_wall": {
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_tiles_stonecutting": {
     "criteria": {
-      "has_polished_blackstone": "2026-03-08 02:08:27 +0000"
+      "has_deepslate_tiles": "2026-03-08 00:48:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall": {
+    "criteria": {
+      "has_deepslate_tiles": "2026-03-08 00:48:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_tiles": "2026-03-08 00:48:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2026-03-08 00:48:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs": {
+    "criteria": {
+      "has_deepslate_tiles": "2026-03-08 00:48:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab": {
+    "criteria": {
+      "has_deepslate_tiles": "2026-03-08 00:48:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2026-03-08 00:57:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2026-03-08 00:57:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs": {
+    "criteria": {
+      "has_deepslate_bricks": "2026-03-08 00:57:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2026-03-08 00:57:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_bricks": "2026-03-08 00:57:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2026-03-08 00:57:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall": {
+    "criteria": {
+      "has_deepslate_bricks": "2026-03-08 00:57:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2026-03-08 00:57:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab": {
+    "criteria": {
+      "has_deepslate_bricks": "2026-03-08 00:57:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_deepslate_bricks": {
+    "criteria": {
+      "has_deepslate_bricks": "2026-03-08 00:57:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2026-03-08 00:57:40 +0000"
     },
     "done": true
   },
@@ -6912,9 +6685,255 @@
     },
     "done": true
   },
+  "discerning_the_eldritch:discerning_the_eldritch/main/find_demonic_weapon": {
+    "criteria": {
+      "flail": "2026-03-08 01:08:33 +0000"
+    },
+    "done": true
+  },
+  "discerning_the_eldritch:discerning_the_eldritch/main/root": {
+    "criteria": {
+      "echo_shard": "2026-03-08 01:11:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/recovery_compass": {
+    "criteria": {
+      "has_echo_shard": "2026-03-08 01:11:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ward_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2026-03-08 01:21:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ward_armor_trim_smithing_template": {
+    "criteria": {
+      "has_ward_armor_trim_smithing_template": "2026-03-08 01:21:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2026-03-08 02:06:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blackstone_wall": {
+    "criteria": {
+      "has_blackstone": "2026-03-08 02:06:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2026-03-08 02:06:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2026-03-08 02:06:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2026-03-08 02:06:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2026-03-08 02:06:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2026-03-08 02:06:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs": {
+    "criteria": {
+      "has_blackstone": "2026-03-08 02:06:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2026-03-08 02:06:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2026-03-08 02:06:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone": {
+    "criteria": {
+      "has_blackstone": "2026-03-08 02:06:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab": {
+    "criteria": {
+      "has_blackstone": "2026-03-08 02:06:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2026-03-08 02:06:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2026-03-08 02:06:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2026-03-08 02:06:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2026-03-08 02:06:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs": {
+    "criteria": {
+      "has_polished_blackstone": "2026-03-08 02:08:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2026-03-08 02:08:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/polished_blackstone_button": {
+    "criteria": {
+      "has_polished_blackstone": "2026-03-08 02:08:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab": {
+    "criteria": {
+      "has_polished_blackstone": "2026-03-08 02:08:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2026-03-08 02:08:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2026-03-08 02:08:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2026-03-08 02:08:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2026-03-08 02:08:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2026-03-08 02:08:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/polished_blackstone_pressure_plate": {
+    "criteria": {
+      "has_polished_blackstone": "2026-03-08 02:08:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2026-03-08 02:08:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone": "2026-03-08 02:08:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall": {
+    "criteria": {
+      "has_polished_blackstone": "2026-03-08 02:08:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2026-03-08 02:08:27 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_advanced_jukebox_upgrade_from_backpack_advanced_jukebox_upgrade": {
+    "criteria": {
+      "has_backpack_upgrade": "2026-03-08 02:30:47 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_pickup_upgrade_from_backpack_pickup_upgrade": {
+    "criteria": {
+      "has_backpack_upgrade": "2026-03-08 02:31:02 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/advanced_jukebox_upgrade": {
+    "criteria": {
+      "has_jukebox_upgrade": "2026-03-08 02:31:36 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_jukebox_upgrade_from_backpack_jukebox_upgrade": {
+    "criteria": {
+      "has_backpack_upgrade": "2026-03-08 02:31:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2026-03-08 14:31:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2026-03-08 14:31:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2026-03-08 14:31:00 +0000"
     },
     "done": true
   },
