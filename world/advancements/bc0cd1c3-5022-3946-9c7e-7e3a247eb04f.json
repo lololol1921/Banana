@@ -6920,9 +6920,105 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/crimson_button": {
+    "criteria": {
+      "has_planks": "2026-03-08 16:00:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_slab": {
+    "criteria": {
+      "has_planks": "2026-03-08 16:00:30 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/black_crimson_crib": {
+    "criteria": {
+      "has_crimson_planks": "2026-03-08 16:00:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_stairs": {
+    "criteria": {
+      "has_planks": "2026-03-08 16:00:30 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/crimson_barrel": {
+    "criteria": {
+      "has_crimson_plank": "2026-03-08 16:00:30 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/orange_crimson_crib": {
+    "criteria": {
+      "has_crimson_planks": "2026-03-08 16:00:30 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/magenta_crimson_crib": {
+    "criteria": {
+      "has_crimson_planks": "2026-03-08 16:00:30 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/green_crimson_crib": {
+    "criteria": {
+      "has_crimson_planks": "2026-03-08 16:00:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/netherite_scrap_from_blasting": {
     "criteria": {
       "has_ancient_debris": "2026-03-08 14:31:00 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/crimson_storage_connector": {
+    "criteria": {
+      "has_crimson_planks": "2026-03-08 16:00:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_planks": {
+    "criteria": {
+      "has_logs": "2026-03-08 16:00:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_pressure_plate": {
+    "criteria": {
+      "has_planks": "2026-03-08 16:00:30 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/crimson_limited_barrel_4": {
+    "criteria": {
+      "has_crimson_plank": "2026-03-08 16:00:30 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/light_gray_crimson_crib": {
+    "criteria": {
+      "has_crimson_planks": "2026-03-08 16:00:30 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/crimson_limited_barrel_1": {
+    "criteria": {
+      "has_crimson_plank": "2026-03-08 16:00:30 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/crimson_limited_barrel_3": {
+    "criteria": {
+      "has_crimson_plank": "2026-03-08 16:00:30 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/crimson_limited_barrel_2": {
+    "criteria": {
+      "has_crimson_plank": "2026-03-08 16:00:30 +0000"
     },
     "done": true
   },
@@ -6932,15 +7028,129 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/crimson_sign": {
+    "criteria": {
+      "has_planks": "2026-03-08 16:00:30 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/purple_crimson_crib": {
+    "criteria": {
+      "has_crimson_planks": "2026-03-08 16:00:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/obtain_ancient_debris": {
     "criteria": {
       "ancient_debris": "2026-03-08 14:31:00 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/redstone/crimson_door": {
+    "criteria": {
+      "has_planks": "2026-03-08 16:00:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_trapdoor": {
+    "criteria": {
+      "has_planks": "2026-03-08 16:00:30 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/crimson_chest": {
+    "criteria": {
+      "has_crimson_plank": "2026-03-08 16:00:30 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/white_crimson_crib": {
+    "criteria": {
+      "has_crimson_planks": "2026-03-08 16:00:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/netherite_armor": {
     "criteria": {
       "netherite_armor": "2026-03-08 15:12:51 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/lime_crimson_crib": {
+    "criteria": {
+      "has_crimson_planks": "2026-03-08 16:00:30 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/pink_crimson_crib": {
+    "criteria": {
+      "has_crimson_planks": "2026-03-08 16:00:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/distract_piglin": {
+    "criteria": {
+      "distract_piglin": "2026-03-08 16:01:21 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/blue_crimson_crib": {
+    "criteria": {
+      "has_crimson_planks": "2026-03-08 16:00:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_hyphae": {
+    "criteria": {
+      "has_log": "2026-03-08 16:00:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_fence": {
+    "criteria": {
+      "has_planks": "2026-03-08 16:00:30 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/brown_crimson_crib": {
+    "criteria": {
+      "has_crimson_planks": "2026-03-08 16:00:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_fence_gate": {
+    "criteria": {
+      "has_planks": "2026-03-08 16:00:30 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/light_blue_crimson_crib": {
+    "criteria": {
+      "has_crimson_planks": "2026-03-08 16:00:30 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/gray_crimson_crib": {
+    "criteria": {
+      "has_crimson_planks": "2026-03-08 16:00:30 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/cyan_crimson_crib": {
+    "criteria": {
+      "has_crimson_planks": "2026-03-08 16:00:30 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/red_crimson_crib": {
+    "criteria": {
+      "has_crimson_planks": "2026-03-08 16:00:30 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/yellow_crimson_crib": {
+    "criteria": {
+      "has_crimson_planks": "2026-03-08 16:00:30 +0000"
     },
     "done": true
   },
