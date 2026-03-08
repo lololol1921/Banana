@@ -4837,6 +4837,12 @@
     },
     "done": true
   },
+  "discerning_the_eldritch:discerning_the_eldritch/main/root": {
+    "criteria": {
+      "echo_shard": "2026-03-08 01:41:13 +0000"
+    },
+    "done": true
+  },
   "waystones:recipes/decorations/light_blue_sharestone": {
     "criteria": {
       "has_warp_stone": "2026-03-08 01:10:02 +0000"
@@ -4930,6 +4936,12 @@
   "waystones:recipes/decorations/white_portstone": {
     "criteria": {
       "has_warp_stone": "2026-03-08 01:10:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2026-03-08 01:41:50 +0000"
     },
     "done": true
   },
@@ -5050,6 +5062,12 @@
   "deeperdarker:main/kill_warden": {
     "criteria": {
       "warden": "2026-03-08 01:20:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/recovery_compass": {
+    "criteria": {
+      "has_echo_shard": "2026-03-08 01:41:13 +0000"
     },
     "done": true
   },
