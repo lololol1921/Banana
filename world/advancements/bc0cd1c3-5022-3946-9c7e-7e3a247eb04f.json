@@ -6922,6 +6922,42 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2026-03-08 14:31:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2026-03-08 14:31:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2026-03-08 14:31:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2026-03-08 15:12:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_planks": {
+    "criteria": {
+      "has_logs": "2026-03-08 16:00:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_hyphae": {
+    "criteria": {
+      "has_log": "2026-03-08 16:00:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/crimson_button": {
     "criteria": {
       "has_planks": "2026-03-08 16:00:30 +0000"
@@ -6970,21 +7006,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
-    "criteria": {
-      "has_ancient_debris": "2026-03-08 14:31:00 +0000"
-    },
-    "done": true
-  },
   "sophisticatedstorage:recipes/misc/crimson_storage_connector": {
     "criteria": {
       "has_crimson_planks": "2026-03-08 16:00:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/crimson_planks": {
-    "criteria": {
-      "has_logs": "2026-03-08 16:00:21 +0000"
     },
     "done": true
   },
@@ -7024,12 +7048,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/netherite_scrap": {
-    "criteria": {
-      "has_ancient_debris": "2026-03-08 14:31:00 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/crimson_sign": {
     "criteria": {
       "has_planks": "2026-03-08 16:00:30 +0000"
@@ -7039,12 +7057,6 @@
   "mca:recipes/decorations/purple_crimson_crib": {
     "criteria": {
       "has_crimson_planks": "2026-03-08 16:00:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/obtain_ancient_debris": {
-    "criteria": {
-      "ancient_debris": "2026-03-08 14:31:00 +0000"
     },
     "done": true
   },
@@ -7072,12 +7084,6 @@
     },
     "done": true
   },
-  "minecraft:nether/netherite_armor": {
-    "criteria": {
-      "netherite_armor": "2026-03-08 15:12:51 +0000"
-    },
-    "done": true
-  },
   "mca:recipes/decorations/lime_crimson_crib": {
     "criteria": {
       "has_crimson_planks": "2026-03-08 16:00:30 +0000"
@@ -7090,21 +7096,9 @@
     },
     "done": true
   },
-  "minecraft:nether/distract_piglin": {
-    "criteria": {
-      "distract_piglin": "2026-03-08 16:01:21 +0000"
-    },
-    "done": true
-  },
   "mca:recipes/decorations/blue_crimson_crib": {
     "criteria": {
       "has_crimson_planks": "2026-03-08 16:00:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/crimson_hyphae": {
-    "criteria": {
-      "has_log": "2026-03-08 16:00:21 +0000"
     },
     "done": true
   },
@@ -7138,12 +7132,6 @@
     },
     "done": true
   },
-  "minecraft:nether/fast_travel": {
-    "criteria": {
-      "travelled": "2026-03-08 16:10:22 +0000"
-    },
-    "done": true
-  },
   "mca:recipes/decorations/cyan_crimson_crib": {
     "criteria": {
       "has_crimson_planks": "2026-03-08 16:00:30 +0000"
@@ -7159,6 +7147,30 @@
   "mca:recipes/decorations/yellow_crimson_crib": {
     "criteria": {
       "has_crimson_planks": "2026-03-08 16:00:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/distract_piglin": {
+    "criteria": {
+      "distract_piglin": "2026-03-08 16:01:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/fast_travel": {
+    "criteria": {
+      "travelled": "2026-03-08 16:10:22 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/spruce_barrel_from_vanilla_barrel": {
+    "criteria": {
+      "has_vanilla_barrel": "2026-03-08 16:22:32 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_villager": {
+    "criteria": {
+      "requirement": "2026-03-08 16:29:34 +0000"
     },
     "done": true
   },
