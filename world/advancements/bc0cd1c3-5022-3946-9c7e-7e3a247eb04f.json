@@ -18,6 +18,7 @@
       "minecraft:deep_cold_ocean": "2026-02-21 18:16:13 +0000",
       "minecraft:eroded_badlands": "2026-02-21 23:44:27 +0000",
       "minecraft:desert": "2026-02-21 21:53:15 +0000",
+      "minecraft:windswept_forest": "2026-03-08 16:15:39 +0000",
       "minecraft:ocean": "2026-02-21 18:17:48 +0000",
       "minecraft:jungle": "2026-02-21 22:06:17 +0000",
       "minecraft:sunflower_plains": "2026-02-22 16:12:44 +0000",
@@ -1052,6 +1053,7 @@
       "minecraft:blaze": "2026-03-02 01:26:16 +0000",
       "minecraft:skeleton": "2026-02-21 19:07:38 +0000",
       "minecraft:zoglin": "2026-03-08 14:42:35 +0000",
+      "minecraft:ravager": "2026-03-08 16:20:05 +0000",
       "minecraft:bogged": "2026-02-22 04:56:42 +0000",
       "minecraft:ghast": "2026-03-07 22:19:53 +0000",
       "minecraft:hoglin": "2026-02-22 21:17:33 +0000",
@@ -7133,6 +7135,12 @@
   "mca:recipes/decorations/gray_crimson_crib": {
     "criteria": {
       "has_crimson_planks": "2026-03-08 16:00:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/fast_travel": {
+    "criteria": {
+      "travelled": "2026-03-08 16:10:22 +0000"
     },
     "done": true
   },
