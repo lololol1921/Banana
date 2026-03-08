@@ -6318,6 +6318,12 @@
     },
     "done": true
   },
+  "discerning_the_eldritch:discerning_the_eldritch/main/root": {
+    "criteria": {
+      "echo_shard": "2026-03-08 01:11:29 +0000"
+    },
+    "done": true
+  },
   "waystones:recipes/decorations/light_blue_sharestone": {
     "criteria": {
       "has_warp_stone": "2026-03-08 00:41:37 +0000"
@@ -6381,6 +6387,12 @@
   "waystones:recipes/decorations/lime_portstone": {
     "criteria": {
       "has_warp_stone": "2026-03-08 00:41:37 +0000"
+    },
+    "done": true
+  },
+  "discerning_the_eldritch:discerning_the_eldritch/main/find_demonic_weapon": {
+    "criteria": {
+      "flail": "2026-03-08 01:08:33 +0000"
     },
     "done": true
   },
@@ -6555,6 +6567,12 @@
   "deeperdarker:main/kill_warden": {
     "criteria": {
       "warden": "2026-03-08 00:13:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/recovery_compass": {
+    "criteria": {
+      "has_echo_shard": "2026-03-08 01:11:29 +0000"
     },
     "done": true
   },
