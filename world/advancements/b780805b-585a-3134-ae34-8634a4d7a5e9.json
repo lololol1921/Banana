@@ -4897,6 +4897,12 @@
     },
     "done": true
   },
+  "deeperdarker:recipes/misc/reinforced_echo_shard": {
+    "criteria": {
+      "has_warden_carapace": "2026-03-08 01:18:28 +0000"
+    },
+    "done": true
+  },
   "waystones:recipes/decorations/yellow_sharestone": {
     "criteria": {
       "has_warp_stone": "2026-03-08 01:10:02 +0000"
@@ -5035,6 +5041,12 @@
     },
     "done": true
   },
+  "deeperdarker:main/kill_warden": {
+    "criteria": {
+      "warden": "2026-03-08 01:20:40 +0000"
+    },
+    "done": true
+  },
   "waystones:recipes/decorations/light_blue_portstone": {
     "criteria": {
       "has_warp_stone": "2026-03-08 01:10:02 +0000"
@@ -5056,6 +5068,12 @@
   "waystones:recipes/decorations/orange_portstone": {
     "criteria": {
       "has_warp_stone": "2026-03-08 01:10:02 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/combat/sonorous_staff": {
+    "criteria": {
+      "has_heart_of_the_deep": "2026-03-08 01:20:41 +0000"
     },
     "done": true
   },
@@ -5088,6 +5106,13 @@
       "has_blue_dye": "2026-03-08 01:13:15 +0000"
     },
     "done": true
+  },
+  "deeperdarker:main/kill_all_sculk_mobs": {
+    "criteria": {
+      "sculk_leech": "2026-03-08 01:18:51 +0000",
+      "warden": "2026-03-08 01:20:40 +0000"
+    },
+    "done": false
   },
   "waystones:recipes/decorations/pink_sharestone": {
     "criteria": {
