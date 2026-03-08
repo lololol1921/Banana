@@ -4826,6 +4826,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:recipes/misc/visibility_ring": {
+    "criteria": {
+      "mithril_scrap": "2026-03-08 02:08:52 +0000"
+    },
+    "done": true
+  },
   "waystones:recipes/decorations/magenta_sharestone": {
     "criteria": {
       "has_warp_stone": "2026-03-08 01:10:02 +0000"
@@ -4835,6 +4841,18 @@
   "waystones:recipes/decorations/purple_portstone": {
     "criteria": {
       "has_warp_stone": "2026-03-08 01:10:02 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:recipes/misc/heavy_chain_necklace": {
+    "criteria": {
+      "mithril_scrap": "2026-03-08 02:08:52 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:recipes/misc/emerald_stoneplate_ring": {
+    "criteria": {
+      "mithril_scrap": "2026-03-08 02:08:52 +0000"
     },
     "done": true
   },
@@ -4862,6 +4880,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2026-03-08 02:08:55 +0000"
+    },
+    "done": true
+  },
   "waystones:recipes/decorations/light_gray_sharestone": {
     "criteria": {
       "has_warp_stone": "2026-03-08 01:10:02 +0000"
@@ -4883,6 +4907,12 @@
   "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
     "criteria": {
       "has_blue_dye": "2026-03-08 01:13:15 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:recipes/misc/expulsion_ring": {
+    "criteria": {
+      "mithril_scrap": "2026-03-08 02:08:52 +0000"
     },
     "done": true
   },
@@ -4916,6 +4946,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2026-03-08 02:08:55 +0000"
+    },
+    "done": true
+  },
   "waystones:recipes/decorations/lime_portstone": {
     "criteria": {
       "has_warp_stone": "2026-03-08 01:10:02 +0000"
@@ -4934,15 +4970,45 @@
     },
     "done": true
   },
+  "irons_spellbooks:recipes/misc/cooldown_ring": {
+    "criteria": {
+      "mithril_scrap": "2026-03-08 02:08:52 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:recipes/misc/affinity_ring": {
+    "criteria": {
+      "mithril_scrap": "2026-03-08 02:08:52 +0000"
+    },
+    "done": true
+  },
   "waystones:recipes/decorations/white_portstone": {
     "criteria": {
       "has_warp_stone": "2026-03-08 01:10:02 +0000"
     },
     "done": true
   },
+  "irons_spellbooks:recipes/misc/poisonward_ring": {
+    "criteria": {
+      "mithril_scrap": "2026-03-08 02:08:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/netherite_ingot": {
     "criteria": {
       "has_netherite_scrap": "2026-03-08 01:41:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2026-03-08 02:08:55 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:recipes/misc/frostward_ring": {
+    "criteria": {
+      "mithril_scrap": "2026-03-08 02:08:52 +0000"
     },
     "done": true
   },
@@ -5054,6 +5120,18 @@
     },
     "done": true
   },
+  "irons_spellbooks:recipes/misc/fireward_ring": {
+    "criteria": {
+      "mithril_scrap": "2026-03-08 02:08:52 +0000"
+    },
+    "done": true
+  },
+  "iss_magicfromtheeast:recipes/misc/soulward_ring": {
+    "criteria": {
+      "mithril_scrap": "2026-03-08 02:08:52 +0000"
+    },
+    "done": true
+  },
   "waystones:recipes/decorations/mossy_waystone": {
     "criteria": {
       "has_warp_stone": "2026-03-08 01:10:02 +0000"
@@ -5105,6 +5183,18 @@
   "minecraft:adventure/avoid_vibration": {
     "criteria": {
       "avoid_vibration": "2026-03-08 01:14:16 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:recipes/misc/cast_time_ring": {
+    "criteria": {
+      "mithril_scrap": "2026-03-08 02:08:52 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:recipes/misc/concentration_amulet": {
+    "criteria": {
+      "mithril_scrap": "2026-03-08 02:08:52 +0000"
     },
     "done": true
   },
@@ -5160,6 +5250,12 @@
   "waystones:recipes/decorations/light_gray_portstone": {
     "criteria": {
       "has_warp_stone": "2026-03-08 01:10:02 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:recipes/misc/conjurers_talisman": {
+    "criteria": {
+      "mithril_scrap": "2026-03-08 02:08:52 +0000"
     },
     "done": true
   },
