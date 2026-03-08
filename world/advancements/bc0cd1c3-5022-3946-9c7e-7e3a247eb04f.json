@@ -6258,6 +6258,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2026-03-08 00:57:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_tiles_stonecutting": {
     "criteria": {
       "has_deepslate_tiles": "2026-03-08 00:48:52 +0000"
@@ -6279,6 +6285,12 @@
   "waystones:recipes/decorations/magenta_sharestone": {
     "criteria": {
       "has_warp_stone": "2026-03-08 00:41:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2026-03-08 00:57:40 +0000"
     },
     "done": true
   },
@@ -6330,6 +6342,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs": {
+    "criteria": {
+      "has_deepslate_bricks": "2026-03-08 00:57:40 +0000"
+    },
+    "done": true
+  },
   "waystones:recipes/decorations/orange_sharestone": {
     "criteria": {
       "has_warp_stone": "2026-03-08 00:41:37 +0000"
@@ -6378,6 +6396,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2026-03-08 00:57:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_tile_wall": {
     "criteria": {
       "has_deepslate_tiles": "2026-03-08 00:48:52 +0000"
@@ -6390,9 +6414,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_bricks": "2026-03-08 00:57:40 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:main/find_ancient_city": {
     "criteria": {
       "ancient_city": "2026-03-08 00:39:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2026-03-08 00:57:40 +0000"
     },
     "done": true
   },
@@ -6486,6 +6522,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_brick_wall": {
+    "criteria": {
+      "has_deepslate_bricks": "2026-03-08 00:57:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_mob_near_sculk_catalyst": {
     "criteria": {
       "kill_mob_near_sculk_catalyst": "2026-03-08 00:13:50 +0000"
@@ -6546,9 +6588,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2026-03-08 00:57:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/avoid_vibration": {
     "criteria": {
       "avoid_vibration": "2026-03-08 00:39:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab": {
+    "criteria": {
+      "has_deepslate_bricks": "2026-03-08 00:57:40 +0000"
     },
     "done": true
   },
@@ -6570,9 +6624,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_deepslate_bricks": {
+    "criteria": {
+      "has_deepslate_bricks": "2026-03-08 00:57:40 +0000"
+    },
+    "done": true
+  },
   "waystones:recipes/decorations/pink_portstone": {
     "criteria": {
       "has_warp_stone": "2026-03-08 00:41:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2026-03-08 00:57:40 +0000"
     },
     "done": true
   },
@@ -6609,6 +6675,12 @@
   "waystones:recipes/decorations/light_gray_portstone": {
     "criteria": {
       "has_warp_stone": "2026-03-08 00:41:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2026-03-08 00:57:40 +0000"
     },
     "done": true
   },
